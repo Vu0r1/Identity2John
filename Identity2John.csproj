@@ -3,6 +3,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Vu0r1</Authors>
+    <PackageLicenseExpression>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Vu0r1/Identity2John/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Vu0r1/Identity2John/</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

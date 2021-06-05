@@ -1,8 +1,7 @@
 {
   "profiles": {
     "Identity2John": {
-      "commandName": "Project",
-      "commandLineArgs": " -a ParseForJohn -s AQAAAAEAABOIAAAAENbFk8zEpS5NOrqEuHUO7Ys/P2udb27BdP+kM8SCmjmxAzQ+lqGk73/VN0Cz5Y/hsA=="
+      "commandName": "Project"
     }
   }
 }
