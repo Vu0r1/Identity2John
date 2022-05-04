@@ -29,7 +29,8 @@ $pbkdf2-sha256$5000$2yTCrMIHE3oqs3ewny29bA$7MpQFTAvX6Ddc0nuJFUuavyTyGd8F74m6lSV0
 Using default input encoding: UTF-8
 Loaded 1 password hash (PBKDF2-HMAC-SHA256 [PBKDF2-SHA256 128/128 AVX 4x])
 No password hashes left to crack (see FAQ)
-                                                                                                                                                                             └─$ john --show hash.txt
+
+└─$ john --show hash.txt
 ?:Test
 
 1 password hash cracked, 0 left
